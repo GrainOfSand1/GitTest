@@ -4,3 +4,4 @@ if x == 'yes':
     print ("That's great")
 else:
     print ("I hope it gets better")
+    print ('this is junk')
